@@ -3,8 +3,11 @@
 int main(void)
 {
     sei();
-    
+
     init_adc();
 
-    for ( ; ;) {}
+    for ( ; ;) 
+    {
+        
+    }
 }
